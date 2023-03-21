@@ -1,0 +1,261 @@
+[
+    {
+      "id": 1,
+      "name": "Fran",
+      "type": "For Time",
+      "description": "21-15-9 reps of: Thrusters (95/65 lb), Pull-ups",
+      "exercises": [
+        {
+          "id": 1,
+          "name": "Thrusters",
+          "defaultReps": 45,
+          "defaultWeight": 95
+        },
+        {
+          "id": 2,
+          "name": "Pull-ups",
+          "defaultReps": 45,
+          "defaultWeight": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Helen",
+      "type": "For Time",
+      "description": "3 Rounds for Time: 400 meter Run, 21 Kettlebell Swings (53/35 lb), 12 Pull-ups",
+      "exercises": [
+        {
+          "id": 3,
+          "name": "400 meter Run",
+          "defaultReps": 1,
+          "defaultWeight": 0
+        },
+        {
+          "id": 4,
+          "name": "Kettlebell Swings",
+          "defaultReps": 63,
+          "defaultWeight": 53
+        },
+        {
+          "id": 5,
+          "name": "Pull-ups",
+          "defaultReps": 36,
+          "defaultWeight": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Murph",
+      "type": "For Time",
+      "description": "For Time: 1 mile Run, 100 Pull-ups, 200 Push-ups, 300 Air Squats, 1 mile Run. All with a Weight Vest (20/14 lb)",
+      "exercises": [
+        {
+          "id": 6,
+          "name": "1 mile Run",
+          "defaultReps": 2,
+          "defaultWeight": 0
+        },
+        {
+          "id": 7,
+          "name": "Pull-ups",
+          "defaultReps": 100,
+          "defaultWeight": 0
+        },
+        {
+          "id": 8,
+          "name": "Push-ups",
+          "defaultReps": 200,
+          "defaultWeight": 0
+        },
+        {
+          "id": 9,
+          "name": "Air Squats",
+          "defaultReps": 300,
+          "defaultWeight": 0
+        }
+      ]
+    },
+    {
+        "id": 4,
+        "name": "Cindy",
+        "type": "AMRAP",
+        "description": "20 Minute AMRAP (As Many Rounds as Possible): 5 Pull-ups, 10 Push-ups, 15 Air Squats",
+        "exercises": [
+          {
+            "id": 10,
+            "name": "Pull-ups",
+            "defaultReps": 5,
+            "defaultWeight": 0
+          },
+          {
+            "id": 11,
+            "name": "Push-ups",
+            "defaultReps": 10,
+            "defaultWeight": 0
+          },
+          {
+            "id": 12,
+            "name": "Air Squats",
+            "defaultReps": 15,
+            "defaultWeight": 0
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Grace",
+        "type": "For Time",
+        "description": "For Time: 30 Clean and Jerks (135/95 lb)",
+        "exercises": [
+          {
+            "id": 13,
+            "name": "Clean and Jerks",
+            "defaultReps": 30,
+            "defaultWeight": 135
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Diane",
+        "type": "For Time",
+        "description": "21-15-9 reps of: Deadlifts (225/155 lb), Handstand Push-ups",
+        "exercises": [
+          {
+            "id": 14,
+            "name": "Deadlifts",
+            "defaultReps": 45,
+            "defaultWeight": 225
+          },
+          {
+            "id": 15,
+            "name": "Handstand Push-ups",
+            "defaultReps": 45,
+            "defaultWeight": 0
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Annie",
+        "type": "For Time",
+        "description": "50-40-30-20-10 reps for time of: Double-unders, Sit-ups",
+        "exercises": [
+          {
+            "id": 16,
+            "name": "Double-unders",
+            "defaultReps": 150,
+            "defaultWeight": 0
+          },
+          {
+            "id": 17,
+            "name": "Sit-ups",
+            "defaultReps": 150,
+            "defaultWeight": 0
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Nancy",
+        "type": "For Time",
+        "description": "5 Rounds for Time: 400 meter Run, 15 Overhead Squats (95/65 lb)",
+        "exercises": [
+          {
+            "id": 18,
+            "name": "400 meter Run",
+            "defaultReps": 5,
+            "defaultWeight": 0
+          },
+          {
+            "id": 19,
+            "name": "Overhead Squats",
+            "defaultReps": 75,
+            "defaultWeight": 95
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Karen",
+        "type": "For Time",
+        "description": "For Time: 150 Wall Ball Shots (20/14 lb)",
+        "exercises": [
+          {
+            "id": 20,
+            "name": "Wall Ball Shots",
+            "defaultReps": 150,
+            "defaultWeight": 20
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Isabel",
+        "type": "For Time",
+        "description": "For Time: 30 Snatches (135/95 lb)",
+        "exercises": [
+          {
+            "id": 21,
+            "name": "Snatches",
+            "defaultReps": 30,
+            "defaultWeight": 135
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Isabel",
+        "type": "For Time",
+        "description": "For Time: 30 Snatches (135/95 lb)",
+        "exercises": [
+          {
+            "id": 21,
+            "name": "Snatches",
+            "defaultReps": 30,
+            "defaultWeight": 135
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Fight Gone Bad",
+        "type": "AMRAP",
+        "description": "3 Rounds, 1 Minute per Station, For Total Reps: Wall Ball Shots (20/14 lb), Sumo Deadlift High Pulls (75/55 lb), Box Jumps (20 in), Push Press (75/55 lb), Row (calories), Rest",
+        "exercises": [
+          {
+            "id": 22,
+            "name": "Wall Ball Shots",
+            "defaultReps": 0,
+            "defaultWeight": 20
+          },
+          {
+            "id": 23,
+            "name": "Sumo Deadlift High Pulls",
+            "defaultReps": 0,
+            "defaultWeight": 75
+          },
+          {
+            "id": 24,
+            "name": "Box Jumps",
+            "defaultReps": 0,
+            "defaultWeight": 0
+          },
+          {
+            "id": 25,
+            "name": "Push Press",
+            "defaultReps": 0,
+            "defaultWeight": 75
+          },
+          {
+            "id": 26,
+            "name": "Row (calories)",
+            "defaultReps": 0,
+            "defaultWeight": 0
+          }
+        ]
+      }
+]
+  
